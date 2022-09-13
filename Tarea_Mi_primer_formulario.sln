@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea_Mi_primer_formulario", "Tarea_Mi_primer_formulario\Tarea_Mi_primer_formulario.csproj", "{B0031672-B317-4F78-9A89-504A57674A02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo_de_interes_simple", "Calculo_de_interes_simple\Calculo_de_interes_simple.csproj", "{DB689AA7-4BF9-44DD-9EC0-CA31C9EAB03A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interes_simple", "interes_simple\interes_simple.csproj", "{6DC46938-6FA6-42CD-89F6-EA50688EAA54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B0031672-B317-4F78-9A89-504A57674A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0031672-B317-4F78-9A89-504A57674A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0031672-B317-4F78-9A89-504A57674A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB689AA7-4BF9-44DD-9EC0-CA31C9EAB03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB689AA7-4BF9-44DD-9EC0-CA31C9EAB03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB689AA7-4BF9-44DD-9EC0-CA31C9EAB03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB689AA7-4BF9-44DD-9EC0-CA31C9EAB03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC46938-6FA6-42CD-89F6-EA50688EAA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC46938-6FA6-42CD-89F6-EA50688EAA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC46938-6FA6-42CD-89F6-EA50688EAA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC46938-6FA6-42CD-89F6-EA50688EAA54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
